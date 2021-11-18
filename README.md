@@ -1,3 +1,8 @@
+# SPOTIFY-CLONE-REACT using React Redux Context API(DATA LAYER)
+Hosted on FIREBASE:
+https://spotify-clone-4a547.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
